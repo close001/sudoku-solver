@@ -5,7 +5,7 @@ This program uses GAC algorithm which is a backsearch algorithm that uses prunin
 **SETUP**\
 Note that this setup is done on Windows. Though some specifics may vary, it will be mostly similar on all OSes.
 1. First, you need to have JDK installed on your computer to compile and run the files.
-2. Download all the files in one folder. 
+2. Download all the java files in the repository in one folder. 
 3. Open up your command line and go to the folder in which you downloaded the files.
 4. Type `javac Main.java' to compile the files.
 
